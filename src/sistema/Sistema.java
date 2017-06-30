@@ -35,6 +35,7 @@ public class Sistema extends javax.swing.JFrame {
     int calculo = 4;
     int diseño = 4;
     int Precion = 2;
+    sdfsdfsdfsdffd polloooooefjshefjksddhkfskfhdfsdfbhsd
     
     public void MostrarInformacion() {
         jLabelAlumno.setText(jTextFieldNombre.getText() + " " + jTextFieldApellido.getText());
